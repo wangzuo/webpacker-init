@@ -1,0 +1,20 @@
+{
+  "name": "webpacker-init",
+  "version": "0.1.0",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "NODE_ENV=development webpacker serve -l http://localhost:7090",
+    "build": "NODE_ENV=production webpacker build"
+  },
+  "repository": "git@github.com:swiftcarrot/webpacker-init.git",
+  "author": "Wang Zuo <wangzuo@swiftcarrot.com> (https://swiftcarrot.com)",
+  "private": true,
+  "dependencies": {
+    "@emotion/core": "^10.0.16",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  },
+  "devDependencies": {
+    "@swiftcarrot/webpacker": "^2.4.4"
+  }
+}
