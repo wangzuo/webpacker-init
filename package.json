@@ -10,11 +10,11 @@
   "author": "Wang Zuo <wangzuo@swiftcarrot.com> (https://swiftcarrot.com)",
   "private": true,
   "dependencies": {
-    "@emotion/core": "^10.0.16",
-    "react": "^16.9.0",
-    "react-dom": "^16.9.0"
+    "@emotion/core": "^10.0.22",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
   },
   "devDependencies": {
-    "@swiftcarrot/webpacker": "^2.4.4"
+    "@swiftcarrot/webpacker": "^2.5.1"
   }
 }
